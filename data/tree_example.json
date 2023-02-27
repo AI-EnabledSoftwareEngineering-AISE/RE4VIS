@@ -960,7 +960,8 @@
                 "unpaved",
                 "character"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.8722727765536448
         },
         {
             "id": 31,
@@ -1002,7 +1003,8 @@
                 "footprint",
                 "route"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.3895244070661432
         },
         {
             "id": 32,
@@ -1065,7 +1067,8 @@
                 "collision",
                 "routine"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.2735415392666123
         },
         {
             "id": 33,
@@ -1107,7 +1110,8 @@
                 "scenic",
                 "concourse"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.039633950739971335
         },
         {
             "id": 34,
@@ -1137,7 +1141,8 @@
                 "provision",
                 "building"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.4170520135180309
         },
         {
             "id": 35,
@@ -1175,7 +1180,8 @@
                 "stepwise",
                 "routine"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.6816432423478491
         },
         {
             "id": 36,
@@ -1208,7 +1214,8 @@
                 "unpaved",
                 "collision"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.7776270888305373
         },
         {
             "id": 37,
@@ -1278,7 +1285,8 @@
                 "concourse",
                 "route"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.11396305599678014
         },
         {
             "id": 38,
@@ -1295,7 +1303,8 @@
                 "slog",
                 "bipedal"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.38932379235255643
         },
         {
             "id": 39,
@@ -1357,7 +1366,8 @@
                 "footprint",
                 "character"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.8078747073377152
         },
         {
             "id": 40,
@@ -1400,7 +1410,8 @@
                 "unpaved",
                 "concourse"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.4309425020782677
         },
         {
             "id": 41,
@@ -1448,7 +1459,8 @@
                 "scenic",
                 "route"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.4623800801639846
         },
         {
             "id": 42,
@@ -1513,7 +1525,8 @@
                 "take step",
                 "link"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.17050735795954264
         },
         {
             "id": 43,
@@ -1551,7 +1564,8 @@
                 "routine",
                 "scenicroute"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.8920955876784364
         },
         {
             "id": 44,
@@ -1581,7 +1595,8 @@
                 "wade",
                 "fact"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.2888189323154421
         },
         {
             "id": 45,
@@ -1599,7 +1614,8 @@
                 "carson",
                 "hit one's stride"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.5743926181525377
         },
         {
             "id": 46,
@@ -1634,7 +1650,8 @@
                 "energy",
                 "wade"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.7695230426597721
         },
         {
             "id": 47,
@@ -1695,7 +1712,8 @@
                 "building",
                 "bumblefoot"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.30776389531852755
         },
         {
             "id": 48,
@@ -1719,7 +1737,8 @@
                 "violation",
                 "motor scooter"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.7317318544471538
         },
         {
             "id": 49,
@@ -1790,7 +1809,8 @@
                 "egress",
                 "bustling"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.28005027086644096
         },
         {
             "id": 50,
@@ -1813,7 +1833,8 @@
                 "bipedal",
                 "bumblefoot"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.05377830615662105
         },
         {
             "id": 51,
@@ -1846,7 +1867,8 @@
                 "put on shoe",
                 "building"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.07232555500229976
         },
         {
             "id": 52,
@@ -1881,7 +1903,8 @@
                 "woman",
                 "energy"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.8652075697023159
         },
         {
             "id": 53,
@@ -1934,7 +1957,8 @@
                 "motor scooter",
                 "provision"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.6805596900353028
         },
         {
             "id": 54,
@@ -1996,7 +2020,8 @@
                 "by foot",
                 "alley"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.7979964729620154
         },
         {
             "id": 55,
@@ -2022,7 +2047,8 @@
                 "routine",
                 "scenicroute"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.6341585221843307
         },
         {
             "id": 56,
@@ -2071,7 +2097,8 @@
                 "scenic",
                 "footprint"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.5499329878422206
         },
         {
             "id": 57,
@@ -2106,7 +2133,8 @@
                 "slog",
                 "concourse"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.25473979212016984
         },
         {
             "id": 58,
@@ -2180,7 +2208,8 @@
                 "traverse",
                 "take step"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.6776207670720839
         },
         {
             "id": 59,
@@ -2219,7 +2248,8 @@
                 "bipedal",
                 "route"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.8875337086452276
         },
         {
             "id": 60,
@@ -2258,7 +2288,8 @@
                 "energy",
                 "footprint"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.4122409114431064
         },
         {
             "id": 61,
@@ -2324,7 +2355,8 @@
                 "route",
                 "routine"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.23186897796236772
         },
         {
             "id": 62,
@@ -2377,7 +2409,8 @@
                 "stepwise",
                 "concourse"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.22697280954149202
         },
         {
             "id": 63,
@@ -2412,7 +2445,8 @@
                 "solace",
                 "collision"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.6094459686095713
         },
         {
             "id": 64,
@@ -2438,7 +2472,8 @@
                 "violation",
                 "unpaved"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.03544046447971261
         },
         {
             "id": 65,
@@ -2484,7 +2519,8 @@
                 "hit one's stride",
                 "put on shoe"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.47362552337229
         },
         {
             "id": 66,
@@ -2551,7 +2587,8 @@
                 "by foot",
                 "bumblefoot"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.017255560191834052
         },
         {
             "id": 67,
@@ -2592,7 +2629,8 @@
                 "provision",
                 "alley"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.9810784000624458
         },
         {
             "id": 68,
@@ -2614,7 +2652,8 @@
                 "horse gait",
                 "carson"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.7204570704010239
         },
         {
             "id": 69,
@@ -2644,7 +2683,8 @@
                 "motor scooter",
                 "building"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.8215763330400553
         },
         {
             "id": 70,
@@ -2682,7 +2722,8 @@
                 "wade",
                 "fact"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.5859418419048777
         },
         {
             "id": 71,
@@ -2721,7 +2762,8 @@
                 "put on shoe",
                 "stepwise"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.5199949170734908
         },
         {
             "id": 72,
@@ -2746,7 +2788,8 @@
                 "design",
                 "bumblefoot"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.023062867101247164
         },
         {
             "id": 73,
@@ -2820,7 +2863,8 @@
                 "egress",
                 "bustling"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.5871126856061984
         },
         {
             "id": 74,
@@ -2855,7 +2899,8 @@
                 "motor scooter",
                 "by foot"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.9710580852112797
         },
         {
             "id": 75,
@@ -2892,7 +2937,8 @@
                 "stepwise",
                 "collision"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.6772225121736738
         },
         {
             "id": 76,
@@ -2944,7 +2990,8 @@
                 "scenic",
                 "route"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.7460991080671754
         },
         {
             "id": 77,
@@ -2980,7 +3027,8 @@
                 "alley",
                 "fact"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.7128523265677646
         },
         {
             "id": 78,
@@ -3038,7 +3086,8 @@
                 "routine",
                 "character"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.8821935637244496
         },
         {
             "id": 79,
@@ -3075,7 +3124,8 @@
                 "footprint",
                 "concourse"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.7353844747001875
         },
         {
             "id": 80,
@@ -3085,7 +3135,8 @@
                 "intentional walk",
                 "baby walker"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.7876945319763436
         },
         {
             "id": 81,
@@ -3116,7 +3167,8 @@
                 "bumblefoot",
                 "egress"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.297189261072041
         },
         {
             "id": 82,
@@ -3152,7 +3204,8 @@
                 "bustling",
                 "stepwise"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.3449318166100581
         },
         {
             "id": 83,
@@ -3240,7 +3293,8 @@
                 "alley",
                 "wade"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.8998485778355764
         },
         {
             "id": 84,
@@ -3287,7 +3341,8 @@
                 "fact",
                 "solace"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.38646443560891486
         },
         {
             "id": 85,
@@ -3353,7 +3408,8 @@
                 "routine",
                 "carpooler"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.10496760786621495
         },
         {
             "id": 86,
@@ -3396,7 +3452,8 @@
                 "traverse",
                 "crossing"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.6911562709603323
         },
         {
             "id": 87,
@@ -3425,7 +3482,8 @@
                 "motor scooter",
                 "scenic"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.10943843479274729
         },
         {
             "id": 88,
@@ -3478,7 +3536,8 @@
                 "scenicroute",
                 "link"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.34325507883492967
         },
         {
             "id": 89,
@@ -3515,7 +3574,8 @@
                 "end",
                 "stairfoot"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.2834303140523292
         },
         {
             "id": 90,
@@ -3581,7 +3641,8 @@
                 "character",
                 "traverse"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.4131458898396996
         },
         {
             "id": 91,
@@ -3624,7 +3685,8 @@
                 "concourse",
                 "route"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.647374925136058
         },
         {
             "id": 92,
@@ -3654,7 +3716,8 @@
                 "design",
                 "routine"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.941307824019886
         },
         {
             "id": 93,
@@ -3685,7 +3748,8 @@
                 "bumblefoot",
                 "scenicroute"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.5300065680469732
         },
         {
             "id": 94,
@@ -3737,7 +3801,8 @@
                 "unpaved",
                 "collision"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.6795837322566608
         },
         {
             "id": 95,
@@ -3770,7 +3835,8 @@
                 "secret agent",
                 "fact"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.7675973301245521
         },
         {
             "id": 96,
@@ -3802,7 +3868,8 @@
                 "provision",
                 "alley"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.9938666765244638
         },
         {
             "id": 97,
@@ -3861,7 +3928,8 @@
                 "by foot",
                 "building"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.47266838511702614
         },
         {
             "id": 98,
@@ -3907,7 +3975,8 @@
                 "egress",
                 "stepwise"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.32137517067723564
         },
         {
             "id": 99,
@@ -3948,7 +4017,8 @@
                 "bustling",
                 "wade"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.85863160312207
         },
         {
             "id": 100,
@@ -3992,7 +4062,8 @@
                 "alley",
                 "bustling"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.8130899853369201
         },
         {
             "id": 101,
@@ -4053,7 +4124,8 @@
                 "fashion",
                 "egress"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.26938741901450103
         },
         {
             "id": 102,
@@ -4085,7 +4157,8 @@
                 "building",
                 "wade"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.7695363453651332
         },
         {
             "id": 103,
@@ -4124,7 +4197,8 @@
                 "provision",
                 "bumblefoot"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.8932791164294842
         },
         {
             "id": 104,
@@ -4157,7 +4231,8 @@
                 "motor scooter",
                 "by foot"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.19627328856857362
         },
         {
             "id": 105,
@@ -4204,7 +4279,8 @@
                 "alley",
                 "bustling"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.5812386234069261
         },
         {
             "id": 106,
@@ -4227,7 +4303,8 @@
                 "woman",
                 "horse gait"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.0606704193490859
         },
         {
             "id": 107,
@@ -4249,7 +4326,8 @@
                 "by foot",
                 "egress"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.1550328799168189
         },
         {
             "id": 108,
@@ -4319,7 +4397,8 @@
                 "bumblefoot",
                 "wade"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.7133644780935179
         },
         {
             "id": 109,
@@ -4366,7 +4445,8 @@
                 "slog",
                 "two-lane"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.002026034117904141
         },
         {
             "id": 110,
@@ -4386,7 +4466,8 @@
                 "portion",
                 "interstate"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.2924670539784354
         },
         {
             "id": 111,
@@ -4478,7 +4559,8 @@
                 "fact",
                 "stepwise"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.05774151625029078
         },
         {
             "id": 112,
@@ -4517,7 +4599,8 @@
                 "scenic",
                 "unpaved"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.365780304922366
         },
         {
             "id": 113,
@@ -4555,7 +4638,8 @@
                 "footprint",
                 "concourse"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.5004939625482141
         },
         {
             "id": 114,
@@ -4584,7 +4668,8 @@
                 "wade",
                 "route"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.9875139396845638
         },
         {
             "id": 115,
@@ -4606,7 +4691,8 @@
                 "concourse",
                 "route"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.2367023219750488
         },
         {
             "id": 116,
@@ -4652,7 +4738,8 @@
                 "scenicroute",
                 "link"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.5054476413407679
         },
         {
             "id": 117,
@@ -4705,7 +4792,8 @@
                 "footprint",
                 "take step"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.7157163086515473
         },
         {
             "id": 118,
@@ -4758,7 +4846,8 @@
                 "bustling",
                 "scenic"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.7625376093361476
         },
         {
             "id": 119,
@@ -4808,7 +4897,8 @@
                 "routine",
                 "traverse"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.6099659235035032
         },
         {
             "id": 120,
@@ -4847,7 +4937,8 @@
                 "egress",
                 "solace"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.05924344763688416
         },
         {
             "id": 121,
@@ -4902,7 +4993,8 @@
                 "unpaved",
                 "collision"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.5521626759719955
         },
         {
             "id": 122,
@@ -4987,7 +5079,8 @@
                 "footprint",
                 "concourse"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.6257585580565016
         },
         {
             "id": 123,
@@ -5009,7 +5102,8 @@
                 "secret agent",
                 "building"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.8579490442873322
         },
         {
             "id": 124,
@@ -5025,7 +5119,8 @@
                 "streetsign",
                 "stepwise"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.5914536893742003
         },
         {
             "id": 125,
@@ -5053,7 +5148,8 @@
                 "scenic",
                 "collision"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.2645711392710386
         },
         {
             "id": 126,
@@ -5131,7 +5227,8 @@
                 "unpaved",
                 "route"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.09416629417953137
         },
         {
             "id": 127,
@@ -5167,7 +5264,8 @@
                 "footprint",
                 "concourse"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.5635241408997267
         },
         {
             "id": 128,
@@ -5196,7 +5294,8 @@
                 "bustling",
                 "stepwise"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.40202415722017804
         },
         {
             "id": 129,
@@ -5245,7 +5344,8 @@
                 "routine",
                 "character"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.9739054736358403
         },
         {
             "id": 130,
@@ -5279,7 +5379,8 @@
                 "solace",
                 "unpaved"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.3811664680625476
         },
         {
             "id": 131,
@@ -5325,7 +5426,8 @@
                 "stepwise",
                 "scenic"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.5844335070701538
         },
         {
             "id": 132,
@@ -5386,7 +5488,8 @@
                 "motor scooter",
                 "bumblefoot"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.820850309674855
         },
         {
             "id": 133,
@@ -5425,7 +5528,8 @@
                 "alley",
                 "fact"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.4394686669763884
         },
         {
             "id": 134,
@@ -5459,7 +5563,8 @@
                 "building",
                 "egress"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.9421399455708793
         },
         {
             "id": 135,
@@ -5485,7 +5590,8 @@
                 "two-lane",
                 "fact"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.8445589219858879
         },
         {
             "id": 136,
@@ -5557,7 +5663,8 @@
                 "stepwise",
                 "unpaved"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.4792108563071509
         },
         {
             "id": 137,
@@ -5584,7 +5691,8 @@
                 "energy",
                 "portion"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.8071293876936526
         },
         {
             "id": 138,
@@ -5631,7 +5739,8 @@
                 "solace",
                 "scenic"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.6828742417337167
         },
         {
             "id": 139,
@@ -5673,7 +5782,8 @@
                 "by foot",
                 "bumblefoot"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.7278734974719553
         },
         {
             "id": 140,
@@ -5696,7 +5806,8 @@
                 "facility",
                 "student"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.04481921914736875
         },
         {
             "id": 141,
@@ -5752,7 +5863,8 @@
                 "crosswalk",
                 "runway"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.7856288350343466
         },
         {
             "id": 142,
@@ -5773,7 +5885,8 @@
                 "pedestrianize",
                 "york"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.6620937240150452
         },
         {
             "id": 143,
@@ -5810,7 +5923,8 @@
                 "equestrianism",
                 "traffic"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.25349349247786657
         },
         {
             "id": 144,
@@ -5848,7 +5962,8 @@
                 "relation",
                 "trail"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.631691339082467
         },
         {
             "id": 145,
@@ -5867,7 +5982,8 @@
                 "protg",
                 "hit one's stride"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.1929356638078814
         },
         {
             "id": 146,
@@ -5900,7 +6016,8 @@
                 "carson",
                 "force"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.6402327698246564
         },
         {
             "id": 147,
@@ -5935,7 +6052,8 @@
                 "signal",
                 "bark"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.31718384874624805
         },
         {
             "id": 148,
@@ -5973,7 +6091,8 @@
                 "energy",
                 "design"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.9484366103482024
         },
         {
             "id": 149,
@@ -6044,7 +6163,8 @@
                 "two-lane",
                 "interstate"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.12126652274723071
         },
         {
             "id": 150,
@@ -6095,7 +6215,8 @@
                 "building",
                 "bumblefoot"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.8109761905700801
         },
         {
             "id": 151,
@@ -6139,7 +6260,8 @@
                 "put on shoe",
                 "alley"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.1222104512037322
         },
         {
             "id": 152,
@@ -6209,7 +6331,8 @@
                 "secret agent",
                 "by foot"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.2563707981772436
         },
         {
             "id": 153,
@@ -6226,7 +6349,8 @@
                 "woman",
                 "carson"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.11063531050683639
         },
         {
             "id": 154,
@@ -6250,7 +6374,8 @@
                 "obstruction",
                 "energy"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.8561550793263604
         },
         {
             "id": 155,
@@ -6292,7 +6417,8 @@
                 "by foot",
                 "provision"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.8153386126667806
         },
         {
             "id": 156,
@@ -6330,7 +6456,8 @@
                 "force",
                 "egress"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.47368460040086413
         },
         {
             "id": 157,
@@ -6362,7 +6489,8 @@
                 "design",
                 "bumblefoot"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.835527606220471
         },
         {
             "id": 158,
@@ -6406,7 +6534,8 @@
                 "bark",
                 "motor scooter"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.17038614848847877
         },
         {
             "id": 159,
@@ -6457,7 +6586,8 @@
                 "building",
                 "alley"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.8000346260608151
         },
         {
             "id": 160,
@@ -6487,7 +6617,8 @@
                 "bustling",
                 "wade"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.6157143618601281
         },
         {
             "id": 161,
@@ -6565,7 +6696,8 @@
                 "bumblefoot",
                 "egress"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.7010362000982665
         },
         {
             "id": 162,
@@ -6608,7 +6740,8 @@
                 "motor scooter",
                 "by foot"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.7182075793513951
         },
         {
             "id": 163,
@@ -6625,7 +6758,8 @@
                 "equestrianism",
                 "activity"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.3004280654578775
         },
         {
             "id": 164,
@@ -6666,7 +6800,8 @@
                 "secret agent",
                 "bipedal"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.6387275540136294
         },
         {
             "id": 165,
@@ -6757,7 +6892,8 @@
                 "scenic",
                 "unpaved"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.9281928090129408
         },
         {
             "id": 166,
@@ -6787,7 +6923,8 @@
                 "stepwise",
                 "solace"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.7290995586594149
         },
         {
             "id": 167,
@@ -6821,7 +6958,8 @@
                 "alley",
                 "fact"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.8297901990678549
         },
         {
             "id": 168,
@@ -6852,7 +6990,8 @@
                 "hit one's stride",
                 "bark"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.22497604976291596
         },
         {
             "id": 169,
@@ -6881,7 +7020,8 @@
                 "egress",
                 "collision"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.5528825562911734
         },
         {
             "id": 170,
@@ -6905,7 +7045,8 @@
                 "sensation",
                 "york"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.9904469298301024
         },
         {
             "id": 171,
@@ -6927,7 +7068,8 @@
                 "northbound",
                 "obstruction"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.4487734089219768
         },
         {
             "id": 172,
@@ -7012,7 +7154,8 @@
                 "energy",
                 "carson"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.3738740322308275
         },
         {
             "id": 173,
@@ -7039,7 +7182,8 @@
                 "student",
                 "hit one's stride"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.4789472450032911
         },
         {
             "id": 174,
@@ -7070,7 +7214,8 @@
                 "fashion",
                 "horse gait"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.571012920897314
         },
         {
             "id": 175,
@@ -7090,7 +7235,8 @@
                 "fact",
                 "solace"
             ],
-            "tid": 0
+            "tid": 0,
+            "coverage": 0.6538417480574841
         },
         {
             "id": 176,
@@ -7139,7 +7285,8 @@
                 "footprint",
                 "concourse"
             ],
-            "tid": 1
+            "tid": 1,
+            "coverage": 0.9300605244003105
         },
         {
             "id": 177,
@@ -7212,7 +7359,8 @@
                 "character",
                 "scenicroute"
             ],
-            "tid": 2
+            "tid": 2,
+            "coverage": 0.29508183973877466
         },
         {
             "id": 178,
@@ -7255,7 +7403,8 @@
                 "scenic",
                 "traverse"
             ],
-            "tid": 3
+            "tid": 3,
+            "coverage": 0.5245435126319675
         },
         {
             "id": 179,
@@ -7292,7 +7441,8 @@
                 "wade",
                 "collision"
             ],
-            "tid": 4
+            "tid": 4,
+            "coverage": 0.053633794196179196
         }
     ]
 }
